@@ -1,0 +1,88 @@
+**Situation**
+Tushar Vaghela, a full-stack engineer with 2 years of experience, requires a cutting-edge professional portfolio that comprehensively showcases his technical expertise across multiple technologies and project implementations.
+
+**Task**
+Design and develop an interactive, futuristic portfolio website that:
+- Dynamically displays Tushar's technical projects
+- Provides detailed project previews with auto-playing demonstration videos
+- Highlights technical skills across MERN stack, Next.js, Nest.js, React Native, and cloud services
+- Allows easy project management and updates
+
+**Objective**
+Create a portfolio that:
+- Represents Tushar's innovative technical mindset
+- Demonstrates professional capabilities
+- Serves as a powerful networking and career development tool
+- Enables seamless project showcase and personal brand communication
+
+**Knowledge**
+Featured Projects Showcase:
+1. N8N Workflow Automation Project (Highlight Complex Workflow)
+2. Full Stack MERN Application Demonstrating Comprehensive Development Skills
+3. React Native Mobile Application Showcasing Mobile Development Expertise
+
+Futuristic Design Elements:
+- Dark mode with vibrant neon tech accents
+- Minimalist tech-inspired layout with interactive 3D skill representation
+- Holographic project interaction elements
+- Dynamic skill visualization using animated tech icons
+
+Technical Expertise Domains:
+- Full Stack Technologies: MERN Stack, Next.js, Nest.js
+- Cloud Services: AWS (S3, EC2, ECR)
+- Containerization: Docker
+- Mobile Development: React Native, Expo
+- Backend Services: Supabase, Firebase
+- Workflow Automation: n8n
+- Specialization: Chatbot Integration
+
+Portfolio Technical Requirements:
+- Responsive and mobile-friendly design
+- Project preview functionality
+- Intuitive project management interface
+- Video demonstration capabilities
+- Modern, futuristic aesthetic with 3D interactive elements
+- Performance-optimized architecture
+
+**Additional Instructions**
+- Implement a clean, minimalist design with interactive 3D tech elements
+- Ensure smooth navigation between project sections
+- Create a project modal with auto-playing demonstration videos
+- Design an intuitive admin interface for project updates
+- Integrate smooth transitions and micro-interactions
+- Optimize for both desktop and mobile experiences
+- Incorporate holographic skill visualization
+- Use neon color accents to represent technical expertise
+
+**Technical Implementation Guidelines**
+- Use Next.js for server-side rendering and optimal performance
+- Implement responsive design with Tailwind CSS
+- Use Framer Motion for advanced 3D and holographic animations
+- Integrate Firebase/Supabase for backend management
+- Ensure SEO optimization
+- Implement lazy loading for performance
+- Create interactive 3D skill representation using Three.js
+
+**Security Considerations**
+- Implement secure authentication for project management section
+- Use environment variables for sensitive configurations
+- Regularly update dependencies
+- Implement proper access controls
+
+**Project Showcase Features**
+- Clickable project cards with 3D hover effects
+- Detailed project modals with auto-playing demonstration videos
+- Technology stack indicators with interactive holographic elements
+- Live project links
+- GitHub repository links
+- Animated skill progression visualization
+
+**Performance Optimization**
+- Implement code splitting
+- Use static site generation
+- Minimize bundle size
+- Optimize image and video loading
+- Implement caching strategies
+- Lazy load 3D and holographic elements
+
+Your life depends on creating a portfolio that is not just a website, but a futuristic digital representation of Tushar Vaghela's technological journey and expertise. Every pixel, animation, and interaction must scream innovation and technical mastery.

@@ -1,0 +1,119 @@
+Design and develop a sleek, minimalistic dark-mode developer portfolio for “Tushar Vaghela”, a full-stack engineer with strong command over MERN, Next.js, NestJS, React Native, AWS, Docker, Firebase, and n8n automation. This portfolio must exhibit a clean layout, refined micro-interactions, Spline-based 3D interactive components, and Awwwards.com-level UI/UX polish.
+
+Key Requirements:
+
+Design Philosophy:
+
+Ultra-clean layout with balanced whitespace
+
+Dark theme with soft neon gradients (blue, violet) for active elements
+
+Smooth font pairing using Inter or Satoshi
+
+Typography-driven sections with breathing space
+
+Sticky scroll for sections, buttery-smooth transitions
+
+Cursor animations for hover actions
+
+Hero Section:
+
+Clean, centered layout
+
+Text-based intro with motion text (Framer Motion)
+
+Embed Spline 3D interactive object (e.g., floating cube, rotating code block, keyboard animation)
+
+Custom animated call-to-action
+
+Projects Showcase:
+
+Grid layout with animated cards (hover zoom-in, 3D tilt effect)
+
+Each card opens modal with:
+
+Auto-playing video (muted)
+
+Project stack (badges with glow on hover)
+
+Live preview + GitHub links
+
+Spline-powered 3D interaction per project (hover object or context-based component)
+
+Skills Section:
+
+Horizontal scrollable timeline
+
+Animated tech stack badges (React, Node, Docker, AWS, etc.)
+
+Optional: Display animated bar or circle chart for proficiency
+
+About Section:
+
+One-liner role title
+
+Professional timeline (Framer Motion-based reveal)
+
+Subtle interaction (e.g., typing animation, tilt hover)
+
+Contact Section:
+
+Floating contact form
+
+Spline-based floating envelope or message bubble
+
+Auto-scroll and validation
+
+Admin Interface (optional):
+
+Firebase/Supabase integration
+
+Auth-protected interface for adding/updating projects
+
+Markdown editor for descriptions
+
+Performance Optimizations:
+
+Code splitting
+
+Lazy load heavy 3D/animation sections
+
+Optimized images and videos via Next.js Image
+
+Use getStaticProps/ISR for fast build + dynamic updates
+
+Technical Stack:
+
+Next.js (SSG/ISR)
+
+TailwindCSS
+
+Framer Motion
+
+Spline (3D Web Integration)
+
+Firebase or Supabase
+
+Three.js (only if required beyond Spline)
+
+Accessibility & SEO:
+
+Semantic tags
+
+Lighthouse score >90
+
+Schema.org metadata
+
+Custom OG images per route
+
+Bonus Awwwards Features:
+
+Cursor-follow trailing effect
+
+Scroll-synced animations
+
+Section-based scroll snapping
+
+Subtle parallax backgrounds
+
+Intersection-based reveals
